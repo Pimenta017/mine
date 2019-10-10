@@ -27,6 +27,7 @@ Partial Class Form1
         '
         'Button1
         '
+        Me.Button1.BackColor = System.Drawing.Color.DimGray
         Me.Button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button1.ForeColor = System.Drawing.SystemColors.ButtonFace
         Me.Button1.Location = New System.Drawing.Point(396, 803)
@@ -34,7 +35,7 @@ Partial Class Form1
         Me.Button1.Size = New System.Drawing.Size(181, 47)
         Me.Button1.TabIndex = 0
         Me.Button1.Text = "Novo Jogo"
-        Me.Button1.UseVisualStyleBackColor = True
+        Me.Button1.UseVisualStyleBackColor = False
         '
         'Form1
         '
