@@ -104,7 +104,7 @@
         If aux.bomba Then
             aux.BackgroundImage = My.Resources.bomba
             Beep()
-            MsgBox("Já foste!!! Joga outravez?",, "Boom")
+            MsgBox("Já fostee!!! Joga outravez?",, "Boom")
             Call Inicializa()
             Return
         Else
